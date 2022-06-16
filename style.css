@@ -1,0 +1,76 @@
+body {
+  background-image: url(background.jpg);
+  background-size: 100%;
+  margin-top: 40px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+  width: 50%;
+  margin: auto;
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+
+.logo {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  color: lime;
+  text-align: center;
+  font-family: Georgia;
+  margin-bottom: 5px;
+}
+
+.buttons {
+  background-color: lime;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+}
+
+h3 {
+  color: white;
+  margin-left: 80px;
+  margin-bottom: 5px;
+  font-family: Georgia;
+}
+
+.infoscooter {
+  color: white;
+  margin-left: 80px;
+}
+
+.chargebarGino22 {
+  background-color: rgba(245,180,83,255);
+  width: 280px;
+  height: 25px;
+  margin-left: 80px;
+  border-radius: 4px;
+}
+
+.chargebarMike24 {
+  background-color: rgba(30,195,30,255);
+  width: 520px;
+  height: 25px;
+  margin-left: 80px;
+  border-radius: 4px;
+}
+
+.chargebarFede154 {
+  background-color: rgba(190,65,65,255);
+  width: 120px;
+  height: 25px;
+  margin-left: 80px;
+  border-radius: 4px;
+}
